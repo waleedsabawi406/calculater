@@ -173,7 +173,7 @@ class _CalaulaterState extends State<Calaulater> {
       result.startsWith('-')
           ? result = result.substring(1)
           : result = '-' + result;
-      finalResult = result;
+      finalResult = result;git commit -m "first commit"
     } else {
       if (result == 0)
         result = txtBtn;
